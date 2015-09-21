@@ -1,0 +1,32 @@
+{
+  "name": "elm-examples-in-javascript",
+  "version": "0.0.1",
+  "description": "A location where I try to recreate Elm examples in pure JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benracine/elm-examples-in-javascript.git"
+  },
+  "keywords": [
+    "elm",
+    "frp",
+    "signals",
+    "immutable",
+    "virtual-dom"
+  ],
+  "author": "Ben Racine",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/benracine/elm-examples-in-javascript/issues"
+  },
+  "homepage": "https://github.com/benracine/elm-examples-in-javascript#readme",
+  "dependencies": {
+    "chai": "^3.2.0",
+    "deep-equal": "^1.0.1",
+    "immutable": "^3.7.5",
+    "virtual-dom": "^2.1.1"
+  }
+}
